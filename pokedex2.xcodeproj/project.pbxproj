@@ -192,6 +192,7 @@
 				TargetAttributes = {
 					808B12781DC4D2FE0004832D = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = JDD9K9B6E7;
 						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 					};
@@ -415,6 +416,7 @@
 			baseConfigurationReference = E56C7110177D81C0A07B741A /* Pods-pokedex2.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JDD9K9B6E7;
 				INFOPLIST_FILE = pokedex2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.arif.pokedex2;
@@ -428,6 +430,7 @@
 			baseConfigurationReference = 72F430DB4B75FAE7508A36E1 /* Pods-pokedex2.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JDD9K9B6E7;
 				INFOPLIST_FILE = pokedex2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.arif.pokedex2;
